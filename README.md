@@ -6,3 +6,7 @@
 > <br />@author  Lukas Hjernquist
 > <br />@version 1.0, 2024/09/13
 > <br />@since   .NET Framework 4.7.2
+
+<br />![Screenshot of the first page in the application.](https://github.com/LukasHje/MyBankApp/blob/master/MyBankATM%20-%20screenshot.PNG)
+
+<br />![Screenshot of the second page in the application.](https://github.com/LukasHje/MyBankApp/blob/master/MyBankSavings%20-%20screenshot.PNG)
