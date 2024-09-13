@@ -214,7 +214,7 @@ Public Class MyBankSavings
 
             LblSavingsHeader.Text = "You currently have a total of:"
 
-            TxtSavingsAmount.Text = userAccountSavings & " kr"
+            TxtSavingsAmount.Text = userAccountSavings & " sek"
 
         Else
 
@@ -455,7 +455,7 @@ Public Class MyBankSavings
 
 
 
-            TxtSavingsAmount.Text = userAccountSavings & " SEK"
+            TxtSavingsAmount.Text = userAccountSavings & " sek"
 
 
 
@@ -471,15 +471,15 @@ Public Class MyBankSavings
 
             LblInterestRate.Text = Math.Round(((AnnualInterestRate - 1) * 100), 1) & "%"
 
-            LblSavedMoney.Text = SavedMoney & " kr"
+            LblSavedMoney.Text = SavedMoney & " sek"
 
             If ValueGrowth > 0 Then
 
-                LblValueGrowth.Text = "+" & ValueGrowth & " kr"
+                LblValueGrowth.Text = "+" & ValueGrowth & " sek"
 
             ElseIf ValueGrowth < 0 Then
 
-                LblValueGrowth.Text = "-" & ValueGrowth & " kr"
+                LblValueGrowth.Text = "-" & ValueGrowth & " sek"
 
             End If
 
