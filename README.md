@@ -1,6 +1,7 @@
 > [!NOTE]
 > This is a simpel (but fun) project I did during work-innovation week.
-> <br />It's a ATM / Investment estimation application - that replicates real life ATM's and banking websites
+> <br />Even though i work mainly with Pl/SQL and databases im happy with how much i managed to accomplish in a mere week. 
+> <br />It's a ATM / Investment estimation application. the functionality replicates real life ATM's and banking investment growth websites
 > <br />All code and GUI is created by me, myself and I. As you more experianced developers and grapich designers probably can tell.. :)
 >
 > <br />@author  Lukas Hjernquist
